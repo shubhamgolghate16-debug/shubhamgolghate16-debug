@@ -9,8 +9,8 @@ I bring product strategy + execution experience, and I love building lean, impac
 
 Here are some of my recent or notable GitHub projects (public):
 
-- **Spectacle-Suggestor** — a TypeScript app for suggesting spectacles. :contentReference[oaicite:1]{index=1}   
-- **ai-newsletter-app** — an AI-powered newsletter application. :contentReference[oaicite:5]{index=5}  
+- **Spectacle-Suggestor** — a TypeScript app for suggesting spectacles.  
+- **ai-newsletter-app** — an AI-powered newsletter application.  
 
 
 
@@ -25,16 +25,15 @@ Here are some of my recent or notable GitHub projects (public):
 
 ## 📚 A Bit About Me
 
-- Based in **Amsterdam / Europe** (per LinkedIn) :contentReference[oaicite:6]{index=6}  
-- Alumni of **IIM Indore** :contentReference[oaicite:7]{index=7}  
-- I write / share thoughts on product management and AI — check out my LinkedIn. :contentReference[oaicite:8]{index=8}
-
+- Based in **Amsterdam / Europe** 
+- Alumni of **IIM Indore**
+- I write / share thoughts on product management and AI — check out my LinkedIn.
 
 
 ## 💬 Let’s Connect
 
-- **LinkedIn**: [Shubham Golghate](https://nl.linkedin.com/in/shubham-golghate) :contentReference[oaicite:9]{index=9}  
-- **Website / Portfolio**: [shubham.nl](https://shubham.nl/) :contentReference[oaicite:10]{index=10}  
+- **LinkedIn**: [Shubham Golghate](https://nl.linkedin.com/in/shubham-golghate)  
+- **Website / Portfolio**: [shubham.nl](https://shubham.nl/)
 
 
 
